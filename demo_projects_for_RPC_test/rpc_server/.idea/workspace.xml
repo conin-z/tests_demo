@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c84a2fdc-7fd1-49fa-9067-d749b967438a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/.idea/JavaSenior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/JavaSenior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day02/day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day06/day06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day07/day07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day08/day08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day09/day09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day10/day10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day10/learn_spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day11/day11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day12/day12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/day13/day13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/diy_rpc/diy_rpc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/java9test/java9test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/ky/ky.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/learn_mybatis/learn_mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/learn_spring/learn_spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaSenior/myproject03/myproject03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/.idea/JavaSenior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/JavaSenior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day02/day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day06/day06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day07/day07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day08/day08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day09/day09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day10/day10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day11/day11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day12/day12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/day13/day13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/java9test/java9test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/ky/ky.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSenior/myproject03/myproject03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainTest/Day01/Day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MainTest/MainTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstDemo/MyFirstDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../production/JavaSenior/.idea/JavaSenior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../production/JavaSenior/JavaSenior.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../production/ky/ky.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/.idea/rpc_client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/src/test/java/rpc/client/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/classes/rpc/client/ClientConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/rpc_client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_client/target/test-classes/rpc/client/ClientTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_test_server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_test_server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_test_server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_test_server/.idea/libraries/1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_test_server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_test_server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_test_server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rpc_test_server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../redis-server - 快捷方式.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/.idea/diyrpc-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/src/main/java/com/rpc/consumer/RpcClientConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/annotation/RpcReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/annotation/RpcService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/consumer/RpcClientConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/consumer/ServerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/consumer/proxy/ClientProxyInvocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/consumer/proxy/RpcInterfaceProxyFactoryBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/consumer/proxy/RpcItfScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/consumer/subscriber/RedisServiceSubscriber$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/consumer/subscriber/RedisServiceSubscriber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/consumer/subscriber/ServiceSubscriber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/exception/AppException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/management/GracefulShutdownListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/management/RpcConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/message/MessageType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/message/RequestImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/message/ResponseImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/message/ResponseStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/provider/RpcServerConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/provider/registry/RedisServiceRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/provider/registry/ServiceRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/registerconfig/RedisRegisterCenterConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/registerconfig/RegisterCenterConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/selector/AbstractSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/selector/RandomServerSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/selector/RoundRobinServerSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/selector/ServerSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/NettySocketConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/NettySocketConfig$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/NettySocketConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/SocketConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/nettyhandler/ClientJsonDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/nettyhandler/ClientJsonEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/nettyhandler/InvokeHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/nettyhandler/KryoDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/nettyhandler/KryoEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/nettyhandler/ResponseHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/nettyhandler/ServerJsonDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/socket/nettyhandler/ServerJsonEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/timertask/AbstractTimerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/timertask/ExpireTimerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/timertask/ScheduleSubscribeTimerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/utils/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/utils/JsonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/utils/KryoUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/utils/KryoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/utils/StringUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/classes/com/rpc/utils/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/diyrpc-1.4-SNAPSHOT-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/target/diyrpc-1.4-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../rpc_ky/项目说明文档.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../新建文件夹/diy_spring/diy_spring/diy_spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../新建文件夹/rpc_server/.idea/rpc_server.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1tZX2Yw7MxPjEmjcvfWHh0RVwTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\c\Java\IDEAworkspace\rpc_server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest.testRpc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpc_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpc.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rpc.server" />
+      <option name="MAIN_CLASS_NAME" value="rpc.server.ServerTest" />
+      <option name="METHOD_NAME" value="testRpc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServerTest.testRpc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84a2fdc-7fd1-49fa-9067-d749b967438a" name="Default Changelist" comment="" />
+      <created>1622977380058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622977380058</updated>
+      <workItem from="1622977381801" duration="25878000" />
+      <workItem from="1623168491202" duration="1627000" />
+      <workItem from="1623170345408" duration="2023000" />
+      <workItem from="1623172402038" duration="1184000" />
+      <workItem from="1623173888127" duration="255000" />
+      <workItem from="1623174430903" duration="740000" />
+      <workItem from="1623497574081" duration="1911000" />
+      <workItem from="1623503133282" duration="118000" />
+      <workItem from="1623503313572" duration="1147000" />
+      <workItem from="1623504654354" duration="755000" />
+      <workItem from="1623505618175" duration="391000" />
+      <workItem from="1623506078096" duration="139000" />
+      <workItem from="1623506243777" duration="11362000" />
+      <workItem from="1623678523393" duration="8844000" />
+      <workItem from="1623857765872" duration="5239000" />
+      <workItem from="1626504222410" duration="9668000" />
+      <workItem from="1626686394283" duration="773000" />
+      <workItem from="1626878137383" duration="72000" />
+      <workItem from="1627030034043" duration="11187000" />
+      <workItem from="1627067440595" duration="1844000" />
+      <workItem from="1627132004057" duration="4696000" />
+      <workItem from="1627138069091" duration="11063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/example/diyrpc/1.0-SNAPSHOT/diyrpc-1.0-SNAPSHOT.jar!/com/rpc/nettyhandler/InvokeHandler.class</url>
+          <line>65</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/example/diyrpc/1.1-SNAPSHOT/diyrpc-1.1-SNAPSHOT-sources.jar!/com/rpc/config/server/RpcServiceConfiguration.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
