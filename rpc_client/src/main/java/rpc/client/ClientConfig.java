@@ -26,8 +26,8 @@ public class ClientConfig {
     }
 
     @Bean
-    public static ServiceSubscriber serviceSubscriber(){
-        RedisServiceSubscriber subscriber = new RedisServiceSubscriber();
+    public static ServiceSubscriber serviceSubscriber(RegisterCenterConfig registerCenterConfig){
+        RedisServiceSubscriber subscriber = new RedisServiceSubscriber((RedisRegisterCenterConfig)registerCenterConfig);
         //subscriber.init();
         return subscriber;
     }

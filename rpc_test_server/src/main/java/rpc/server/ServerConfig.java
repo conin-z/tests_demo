@@ -26,12 +26,12 @@ public class ServerConfig {
     }
 
     @Bean
-    public ServiceRegistry redisServiceRegistry(){
-        return new RedisServiceRegistry();
+    public ServiceRegistry redisServiceRegistry(RegisterCenterConfig redisRegisterCenterConfig){
+        return new RedisServiceRegistry((RedisRegisterCenterConfig) redisRegisterCenterConfig);
     }
 
     @Bean
-    public ServerRpcConfig rpcServiceConfiguration(RegisterCenterConfig centerConfig, ServiceRegistry registry){
+    public ServerRpcConfig serverRpcConfig(RegisterCenterConfig centerConfig, ServiceRegistry registry){
         ServerRpcConfig configuration = new ServerRpcConfig(centerConfig, registry, 8989);
         configuration.setSocketObservePeriod(10);
         configuration.setCenterObservePeriod(10);

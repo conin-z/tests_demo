@@ -6,7 +6,6 @@ import rpc.service.ServiceList;
 import rpc.service.ServiceString;
 import rpc.service.ServiceArray;
 
-import java.util.Arrays;
 
 public class ClientTest {
 
